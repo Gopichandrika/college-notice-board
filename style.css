@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #f3f6fb; color: #243047; }
+header { background: #174ea6; color: white; padding: 32px 20px; text-align: center; }
+main { max-width: 760px; margin: 32px auto; padding: 0 16px; }
+.notices { background: white; padding: 24px; border-radius: 12px; box-shadow: 0 2px 12px #00000012; }
+.notice { border-left: 4px solid #174ea6; background: #f7f9fc; padding: 14px 18px; margin: 16px 0; }
+.notice h3 { margin: 0 0 8px; }
+.notice p { margin: 0 0 10px; }
+footer { text-align: center; padding: 20px; color: #667085; }
